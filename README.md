@@ -1,5 +1,5 @@
 *Aim: Using Machine Learning to Classify users of a platform and Predict user Purchases.*
-*Tested using different ML models (Logistic Regression, K-neighbour classifier, Support Vector Machines, Decision Tree, and Random Forst) to find the best performing model for this specific case.*
+*Tested using different ML models (Logistic Regression, K-neighbours, Support Vector Machines, Decision Tree, and Random Forest) to find the best performing model for this specific case.*
 
 # Results Interpretation:
 
