@@ -19,8 +19,10 @@ All the models provide accuracy score of 96%. However, only Random Forest and De
 
 See the data below:
 
-Logistic Regression
+## Logistic Regression
+
 ![alt text](image-4.png)
+
                precision    recall  f1-score   support
 
 Not purchased       0.97      0.99      0.98      3201
@@ -31,8 +33,10 @@ Not purchased       0.97      0.99      0.98      3201
  weighted avg       0.95      0.96      0.95      3526
 
 
-K-neighbors
+## K-neighbors
+
 ![alt text](image-3.png)
+
                precision    recall  f1-score   support
 
 Not Purchased       0.97      0.98      0.98      3201
@@ -43,8 +47,10 @@ Not Purchased       0.97      0.98      0.98      3201
  weighted avg       0.95      0.96      0.95      3526
 
 
-Support Vector Machine
+## Support Vector Machine
+
 ![alt text](image-2.png)
+
                precision    recall  f1-score   support
 
 Not purchased       0.97      0.98      0.98      3201
@@ -55,8 +61,10 @@ Not purchased       0.97      0.98      0.98      3201
  weighted avg       0.96      0.96      0.96      3526
 
 
-Decision tree
+## Decision tree
+
 ![alt text](image.png)
+
                precision    recall  f1-score   support
 
 Not purchased       0.98      0.98      0.98      3201
@@ -67,8 +75,10 @@ Not purchased       0.98      0.98      0.98      3201
  weighted avg       0.96      0.96      0.96      3526
 
 
-Random forest
+## Random forest
+
 ![alt text](image-1.png)
+
                precision    recall  f1-score   support
 
 Not purchased       0.98      0.98      0.98      3201
