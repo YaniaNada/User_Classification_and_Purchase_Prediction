@@ -11,6 +11,8 @@ It indicates that the full model provides a significantly better fit to the data
 
 A: 'days_on_platform' and 'minutes_watched' are the features that influenced decisions in the decision tree model.
 
+![alt text](image-5.png)
+
 ## 3. What observations and conclusions can you make based on the confusion matrices? Does the accuracy of the model determine its predictive power?
 
 A: From observing the classification report of each model it can be concluded that accuracy of the model doesn't determine the predictive power. The models are performing well in predicting the 'Not purchased' class but isn't functioning as well with the 'purchased' class.
@@ -49,7 +51,7 @@ Not Purchased       0.97      0.98      0.98      3201
 
 ## Support Vector Machine
 
-![alt text](image-2.png)
+![alt text](image-6.png)
 
                precision    recall  f1-score   support
 
@@ -59,6 +61,7 @@ Not purchased       0.97      0.98      0.98      3201
      accuracy                           0.96      3526
     macro avg       0.89      0.84      0.86      3526
  weighted avg       0.96      0.96      0.96      3526
+
 
 
 ## Decision tree
