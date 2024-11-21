@@ -1,3 +1,6 @@
+*Aim: Using Machine Learning to Classify users of a platform and Predict user Purchases.*
+*Tested using different ML models (Logistic Regression, K-neighbour classifier, Support Vector Machines, Decision Tree, and Random Forst) to find the best performing model for this specific case.*
+
 # Results Interpretation:
 
 ## 1. What is the LLR (Log Likelihood Ratio) p-value in the summary of the logistic regression model, and what does it tell us?
